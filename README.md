@@ -1,1 +1,1 @@
-# game_based-learning_integral-apprach
+# game_based-learning_integral-approach
